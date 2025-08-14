@@ -1,7 +1,7 @@
 # seats_and_mounts--sailboat_adaptations
 selection of seating and equipment mounting options, as well as transfer options, to meet the needs of different boats, sailors and scenarios
 
-please propose approaches, primarily with adaptive needs in mind, to the following scenarios
+please propose approaches, primarily focusing on universal access/adaptive needs, to the following scenarios, primarily involving bluewater sailing.
 
 ## helm station seating
 maintaining a proper watch from the helm station is a challenge for every sailor, and vessel design often introduces the following complications:
