@@ -20,3 +20,5 @@ the design-build opportunity: mobility makes solving these challenges a little e
 
 ## transfer between boats
 between the main boat and dinghies tenders, launches, rescue vessels
+
+## active thermal regulation
